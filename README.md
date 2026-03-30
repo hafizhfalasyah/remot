@@ -1,4 +1,4 @@
-<p align="center">🚀 ReMot — Smart Motorcycle Rental Platform</p>
+<h1 align="center"><b>🚀 ReMot — Smart Motorcycle Rental Platform</b></h1>
 
 ![Laravel](https://img.shields.io/badge/Laravel-Framework-red?logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-Backend-blue?logo=php)
