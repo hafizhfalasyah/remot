@@ -1,0 +1,107 @@
+:root {
+	--poppins: 'Poppins', sans-serif;
+	--lato: 'Lato', sans-serif;
+
+	--grey: #eee;
+	--dark: #342E37;
+}
+main {
+	margin: 0 auto;
+	max-width: 960px;
+	width: 100%;
+}
+input, label {
+	box-sizing: border-box;
+}
+main .table-data {
+	display: flex;
+	flex-wrap: wrap;
+	grid-gap: 24px;
+	margin-top: 24px;
+	width: 100%;
+	color: var(--dark);
+}
+main .table-data > div {
+	border-radius: 20px;
+	padding: 24px;
+	overflow-x: auto;
+}
+main .table-data .head {
+	display: flex;
+	align-items: center;
+	grid-gap: 16px;
+}
+main .table-data .head h2 {
+	margin-right: auto;
+	font-size: 40px;
+	font-weight: 600;
+}
+main .table-data .head .bx {
+	cursor: pointer;
+}
+main .table-data .order {
+	flex-grow: 1;
+	flex-basis: 500px;
+}
+main .table-data .order table {
+	width: 100%;
+	border-collapse: collapse;
+}
+main .table-data .order table th {
+	padding-bottom: 12px;
+	font-size: 13px;
+	text-align: left;
+	border-bottom: 1px solid var(--grey);
+}
+main .table-data .order table td {
+	padding: 16px 0;
+}
+main .table-data .order table tr td:first-child {
+	display: flex;
+	align-items: center;
+	grid-gap: 12px;
+	padding-left: 6px;
+}
+main .table-data .order table td img {
+	width: 36px;
+	height: 36px;
+	border-radius: 50%;
+	object-fit: cover;
+}
+main .table-data .order table tbody tr:hover {
+	background: var(--grey);
+}
+main .table-data .todo {
+	flex-grow: 1;
+	flex-basis: 300px;
+}
+main .table-data .todo .todo-list {
+	width: 100%;
+}
+main .table-data .todo .todo-list li {
+	width: 100%;
+	margin-bottom: 16px;
+	background: var(--grey);
+	border-radius: 10px;
+	padding: 14px 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+main .table-data .todo .todo-list li .bx {
+	cursor: pointer;
+}
+main .table-data .todo .todo-list li:last-child {
+	margin-bottom: 0;
+}
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+}
+.alert-success {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}
