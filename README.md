@@ -1,11 +1,5 @@
 <h1 align="center"><b>🚀 ReMot — Smart Motorcycle Rental Platform</b></h1>
 
-![Laravel](https://img.shields.io/badge/Laravel-Framework-red?logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-Backend-blue?logo=php)
-![Midtrans](https://img.shields.io/badge/Midtrans-Payment%20Gateway-orange)
-![Status](https://img.shields.io/badge/Status-Development-yellow)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ---
 
 ## 📌 Overview
@@ -38,13 +32,26 @@ This project demonstrates the implementation of modern web development practices
 
 ---
 
-## 🧠 Tech Stack
+## 🖼️ Screenshots
 
-| Layer        | Technology |
-|-------------|-----------|
-| Backend     | Laravel (PHP) |
-| Database    | MySQL |
-| Payment     | Midtrans |
-| Frontend    | Blade / Bootstrap |
+### [ Homepage ]
+![Image](https://github.com/user-attachments/assets/f7ee9d20-7085-4e7b-8716-56b6697315e4)
+
+### [ Booking Page ]
+![Image](https://github.com/user-attachments/assets/6811bdae-5137-4580-8af5-8681408bfb81)
+
+### [ Payment Page ]
+![Image](https://github.com/user-attachments/assets/6a7f129b-34ee-4892-8d80-834353952157)
+
+### [ Admin Dashboard ]
+![Image](https://github.com/user-attachments/assets/72e56caa-7902-4462-87dc-69a455745624)
+
+---
+
+## 📜 Copyright Certificate
+
+This project is legally protected under copyright registration.
+
+![Copyright Certificate](https://github.com/user-attachments/files/26360921/000559564.pdf)
 
 ---
