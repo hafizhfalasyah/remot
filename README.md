@@ -74,6 +74,4 @@ This project demonstrates the implementation of modern web development practices
 
 This project is legally protected under copyright registration.
 
-![Copyright Certificate](https://github.com/user-attachments/files/26360921/000559564.pdf)
-
 ---
